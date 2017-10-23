@@ -1,0 +1,16 @@
+{
+  "name": "ocscan",
+  "version": "0.0.1",
+  "description": "Projet de scan distant avec reconnaissance locale de caractères",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clement Didier",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "socketio": "^1.0.0"
+  }
+}
